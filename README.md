@@ -5,6 +5,8 @@ This project was changed since I took this class but if you're here to copy code
 
 There are a few ways to run this code. Before you do, make sure you have Python3, Pygame, Numpy, and any other required libraries installed. Thanks so much!
 
+Use these commands to launch!
+
 Trains snake agent, Ricky, for 1000 games and then simulates 10 games for Ricky to play. Takes average score from 10 games.
 
 "python snake_task.py"
